@@ -1,0 +1,20 @@
+{
+  "name": "express-workshop",
+  "version": "1.0.0",
+  "description": "node-girls-workshop",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolkadot/express-workshop.git"
+  },
+  "author": "dee bryant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tolkadot/express-workshop/issues"
+  },
+  "homepage": "https://github.com/tolkadot/express-workshop#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-formidable": "^1.0.0"
+  }
+}
